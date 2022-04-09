@@ -1,7 +1,7 @@
 # PYTHON-COMPILER
 
-git clone https://github.com/Okenwa 24/PYTHON-COMPILER.git
+git clone https://github.com/Okenwa24/PYTHON-COMPILER.git
 
-cd Venom
+cd PYTHON-COMPILER
 
 python encode.py
